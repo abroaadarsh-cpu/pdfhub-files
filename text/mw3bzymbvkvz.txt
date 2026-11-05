@@ -1,0 +1,5 @@
+Website guide by developer
+In this pdf you will learn about how this website function works in that you can upload your pdf listen download others pdf upload from device or with costamization. 
+See step one is create token on github and paste in sign in option after that just upload from device or make yourself in this 
+
+Also you can add images and voices/recordings like I add also this is website demo version ubgraded is coming soon make this very popular.
